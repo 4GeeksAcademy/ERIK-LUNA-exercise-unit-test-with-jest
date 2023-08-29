@@ -8,7 +8,7 @@
         }
     
     
-    // convertimos el valor a dolares
+    // convertimos el valor a yenes
     
     let valueInYen = valueInDollar * 106.58;
     // retornamos el valor
